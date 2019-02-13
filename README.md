@@ -2,7 +2,7 @@
 
 *A rapid-prototyping software stack for back-end Python Apps.*
 
-I frequently find myself using a common back-end web-services stack for rapidly prototypying Python apps and automations.  Containers and Docker Hub images make things much easier, but you still have setup all the boilerplate configuration files and code to get everything connected.  I'd rather template all if this and start from, "Stack Ready!"
+I frequently find myself using a common backend software stack for rapidly prototypying Python apps and automations.  Containers and Docker Hub images make things much easier, but you still have setup all the boilerplate configuration files and code to get everything connected.  I'd rather template all if this and start from, "Stack Ready!"
 
 ## Features
 
@@ -27,24 +27,22 @@ Projects created from this template will have the following capabilities configu
 ### The First Time
 
 ```bash
-$ cookiecutter https://github.com/CiscoSE/cc-cisco-sample-code
+$ cookiecutter https://github.com/CiscoSE/cc-rapid-stack
 ```
 
 ...or using abbreviated syntax:
 
 ```bash
-$ cookiecutter gh:CiscoSE/cc-cisco-sample-code
+$ cookiecutter gh:CiscoSE/cc-rapid-stack
 ```
 
 ### Thereafter
 
 ```bash
-$ cookiecutter cc-cisco-sample-code
+$ cookiecutter cc-rapid-stack
 ```
 
-## Installation
-
-You don't have to know Python syntax or write Python code to create and use Cookiecutter templates, but you do need Python and the Cookiecutter tool installed on your workstation.
+## Cookiecutter Installation
 
 If you have a working Python development environment, installation is simple:
 
@@ -52,7 +50,7 @@ If you have a working Python development environment, installation is simple:
 $ pip install cookiecutter
 ```
 
-If you need a bit more help than that, see [Installation](https://cookiecutter.readthedocs.io/en/latest/installation.html) in the Cookiecutter docs.
+If you need a bit more help than that, see the Cookiecutter [Installation](https://cookiecutter.readthedocs.io/en/latest/installation.html) docs.
 
 ## Credits
 
