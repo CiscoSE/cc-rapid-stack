@@ -1,5 +1,7 @@
 # Python Rapid Stack | Cookiecutter Project Template
 
+***This is a work-in-progress.  This template is not ready to use.  Yet!***
+
 *A rapid-prototyping software stack for backend Python Apps.*
 
 I frequently find myself using a common backend software stack for rapidly prototypying Python apps and automations.  Containers and Docker Hub images make things much easier, but you still have setup all the boilerplate configuration files and code to get everything connected.  I'd rather template all if this and start from, "Stack Ready!"
